@@ -1,0 +1,11 @@
+{
+  "name": "first-node",
+  "version": "1.0.0",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  },
+  "scripts": {
+    "dev": "tsc --watch",
+    "prod": "tsc && node ./build/index.js"
+  }
+} 
