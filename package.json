@@ -8,4 +8,4 @@
     "dev": "tsc --watch",
     "prod": "tsc && node ./build/index.js"
   }
-} 
+}
